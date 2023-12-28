@@ -1,0 +1,80 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+}
+
+.container_background {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 700px;
+    height: 650px;
+    padding: 30px;
+    border-radius: 10px;
+    padding: 45px 55px;
+}
+
+.centratura {
+    display: flex;
+    justify-content: center;
+}
+
+.intestazione {
+    color: #00DD00;
+    text-align: center;
+}
+
+.bt_background {
+    background-color: #00DD00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin_bt {
+    margin: 12px;
+}
+
+.centratura {
+    display: flex;
+    justify-content: center;
+}
+
+.orange {
+    background-color: #F5B453;
+    height: 25px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.green {
+    background-color: #1EC31E;
+    height: 25px;
+    width: 480px;
+    border-radius: 5px;
+}
+
+.red {
+    background-color: #BE4141;
+    height: 25px;
+    width: 145px;
+    border-radius: 5px;
+}
+
+.background {
+    background-color: #BE4141;
+}
+
+.indicazioni_stradali {
+    color: white;
+}
+
+ul {
+    list-style-type:square;
+}
+
+.font_weight {
+    font-weight: 700;;
+}
